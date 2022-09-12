@@ -350,11 +350,12 @@ body {
 /*  início checklist */
 
 .container1{
-	height: 500px;
+	height: 400px;
 	background-color: white;
 	display: flex;
 	margin: 2rem;
 	margin-top: 5rem;
+	padding-bottom: 2rem;
 
 }
 
@@ -444,7 +445,12 @@ body {
 /* Começo do Time */
 
 
-
+.team{
+	padding-bottom: 10rem;
+}
+.team .heading{
+	padding-bottom: 2rem;
+}
 .team .heading h1{
 	font-size: 2rem;
 	font-weight: bolder;
