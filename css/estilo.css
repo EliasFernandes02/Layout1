@@ -524,7 +524,7 @@ body {
 
 
 .footer1 .column1 h1{
-	font-size: 1.7rem;
+	font-size: 1.5rem;
 	color: white;
 	padding-top: 1rem;
 	font-weight: bolder;
@@ -603,7 +603,7 @@ body {
 }
 
 .footer1 .column2 h1{
-	font-size: 1.7rem;
+	font-size: 1.5rem;
 	color: white;
 	padding-top: 1rem;
 	font-weight: bolder;
@@ -626,7 +626,7 @@ body {
 }
 
 .footer1 .column3 h1{
-	font-size: 1.7rem;
+	font-size: 1.5rem;
 	color: white;
 	padding-top: 1rem;
 	font-weight: bolder;
@@ -649,7 +649,7 @@ body {
 }
 
 .footer1 .column4 h1{
-	font-size: 1.7rem;
+	font-size: 1.5rem;
 	color: white;
 	padding-top: 1rem;
 	padding-bottom: 15px;
@@ -693,14 +693,16 @@ body {
 .footer1 .column4 .icons i{
 	font-size: 1.3rem;
 	color: white;
-	border: 2px solid white;
+	border: 1px solid white;
 	height: 25px;
 	width: 30px;
 	align-items: center;
 	cursor: pointer;
 
 }
+/* fim do footer1 */
 
+/* início do footer2 */
 .footer2{
 	background-color: #092139;
 	display: flex;
@@ -761,7 +763,7 @@ body {
 	color: #f3c217;
 }
 
-/* Fim do Footer1 */
+/* Fim do Footer2 */
 
 
 
