@@ -152,6 +152,7 @@ html{
 	padding-top: 1rem;
 	
 }
+
 .header .logo h1{
 	color:#0c2b4b ;
 	font-size: 2rem;
@@ -176,6 +177,7 @@ html{
 	padding-right: 2rem;
 	
 }
+
 .header .navbar a:hover{
 	color: #f3c217;
 }
@@ -226,6 +228,7 @@ html{
 
 
 /* Swipper p/ efeito carrosel e banner */
+
 html,
 body {
   position: relative;
@@ -302,6 +305,7 @@ body {
 	height: 60px;
 	width: 40px;
 }
+
 .swiper .swiper-button-next {
 	color: white;
 	background-color: #d9b532;
@@ -317,6 +321,7 @@ body {
 	border: none;
 	
 }
+
 .swiper-wrapper .swiper-slide .courses{
 	background-color: #fff;
 	color: black;
@@ -340,12 +345,10 @@ body {
 	font-weight: bolder;
 }
 
-
-
-
 /* fim do swipper e do banner*/
 
 /*  início checklist */
+
 .container1{
 	height: 500px;
 	background-color: white;
@@ -354,11 +357,13 @@ body {
 	margin-top: 5rem;
 
 }
+
 .conteudo1{
 	display: flex;
 	
 	
 }
+
 .conteudo2{
 	display: flex;
 }
@@ -378,6 +383,7 @@ body {
 	
 
 }
+
 .cabecalho p{
 	color: #828485;
 	font-size: 0.9rem;
@@ -398,11 +404,13 @@ body {
 	color: #0c2b4b;
 	
 }
+
 .container1 .cabecalho .box p{
 	color: #828485;
 	font-size: 0.9rem;
 	padding-top: 10px;
 }
+
 .container1 .cabecalho .box ion-icon{
 	color: #f3c217;
 	background-color: white;
@@ -416,6 +424,7 @@ body {
 	
 	
 }
+
 .container1 .photo .photo1{
 	z-index: 1000;
 }
@@ -428,8 +437,6 @@ body {
 	left: 424px;
 	top: -330px;
 }
-
-
 
 
 /* fim do checklist */
@@ -450,15 +457,18 @@ body {
 	padding-left: 32rem;
 	
 }
+
 .team .heading .tit2{
 	padding-left: 30rem;
 }
+
 .team .heading h3{
 	font-size: 1.1rem;
 	color: #f3c217;
 	padding-left:35rem ;
 	
 }
+
 .team .box-container{
     display: flex;
     align-items: center;
@@ -520,11 +530,13 @@ body {
 	font-weight: bolder;
 
 }
+
 .footer1 .column1 .logof {
 	display: flex;
 	padding-top:1rem;
 
 }
+
 .footer1 .column1 .logof i{
 	color: white;
 	font-size: 1.5rem;
@@ -538,6 +550,7 @@ body {
 	font-weight: bolder;
 
 }
+
 .footer1 .column1 .place{
 	display: flex;
 	padding-top: 1rem;
@@ -606,16 +619,19 @@ body {
 	font-size: 1rem;
 	padding-right: 10px;
 }
+
 .footer1 .column2 .links1 p{
 	color: white;
 	font-size: 0.9rem;
 }
+
 .footer1 .column3 h1{
 	font-size: 1.7rem;
 	color: white;
 	padding-top: 1rem;
 	font-weight: bolder;
 }
+
 .footer1 .column3 .links2{
 	display: flex;
 	padding-top:1rem ;
@@ -645,11 +661,13 @@ body {
 	text-decoration: none;
 
 }
+
 .footer1 .column4 .form input{
 	height: 40px;
 	text-decoration: none;
 	font-size: 0.9rem;
 }
+
 .footer1 .column4 .form input:focus{
 	outline: 0;
 }
@@ -663,6 +681,7 @@ body {
 	border: none;
 	cursor: pointer;
 }
+
 .footer1 .column4 h3{
 	font-size: 1.5rem;
 	color: white;
@@ -703,21 +722,26 @@ body {
 	font-size: 0.8rem;
 	padding-left: 10px;
 }
+
 .footer2 .rights p{
 	font-size: 0.8rem;
 	color: white;
 }
+
 .footer2 .creditos{
 	padding-top: 10px;
 }
+
 .footer2 .creditos .cred1{
 	display: flex;
 	padding-bottom: 5px;
 }
+
 .footer2 .creditos .cred1 p{
 	font-size:0.8rem;
 	color: white;
 }
+
 .footer2 .creditos .cred1 span{
 	font-size: 0.8rem;
 	color: #f3c217;
@@ -726,10 +750,12 @@ body {
 .footer2 .creditos .cred2{
 	display: flex;
 }
+
 .footer2 .creditos .cred2 p{
 	font-size:0.8rem;
 	color: white;
 }
+
 .footer2 .creditos .cred2 span{
 	font-size: 0.8rem;
 	color: #f3c217;
